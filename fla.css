@@ -10,9 +10,6 @@
             background-size: cover;
             background-attachment: fixed;
 
-           /* Shorthand - background 
-             color > image > position > repeat > [size] > attachment
-           */ 
 
             background: black url('flamengo-mosaico.jpeg') center center no-repeat fixed;
             background-size: cover;
